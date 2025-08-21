@@ -9,6 +9,7 @@ A página funciona como minha carta de apresentação, onde compartilho um pouco
 
 Atualmente curso Análise e Desenvolvimento de Sistemas e tenho interesse em negócios, inovação e soluções digitais. Meu foco é unir visão estratégica com tecnologia prática e escalável, sempre buscando melhorar a experiência do usuário.
 
+--------------------------------------------------------------------------------------
 
 🎯 Objetivo do Projeto
 
@@ -16,12 +17,15 @@ Colocar em prática meus estudos iniciais de front-end.
 Criar uma página simples, funcional e responsiva.
 Desenvolver habilidades em HTML, CSS e JavaScript.
 
+--------------------------------------------------------------------------------------
 
 🚀 Tecnologias Utilizadas
 
 HTML5
 CSS3
 JavaScript
+
+--------------------------------------------------------------------------------------
 
 📚 O que Aprendi
 
@@ -30,6 +34,8 @@ Iniciar os primeiros passos em JavaScript.
 Resolver dúvidas e simplificar processos utilizando ferramentas de IA.
 Organizar melhor o código para deixar o projeto mais limpo e otimizado.
 
+--------------------------------------------------------------------------------------
+
 📖 Tecnologias que Estou Estudando
 
 HTML5 & CSS3
@@ -37,6 +43,8 @@ JavaScript
 Python
 Java
 PHP
+
+--------------------------------------------------------------------------------------
 
 🔮 Próximos Passos
 
