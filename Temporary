@@ -1,2 +1,142 @@
-<HTML>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vinicius Corsi | Personal Landing Page</title>
+  <style>
+    /* Reset */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: "Segoe UI", Arial, sans-serif;
+      background-color: #000;
+      color: #fff;
+      line-height: 1.6;
+    }
+
+    header {
+      text-align: center;
+      padding: 3rem 1rem;
+      border-bottom: 2px solid #fff;
+    }
+
+    header h1 {
+      font-size: 2.5rem;
+      letter-spacing: 2px;
+    }
+
+    header p {
+      font-size: 1.2rem;
+      color: #ccc;
+    }
+
+    section {
+      max-width: 800px;
+      margin: 3rem auto;
+      padding: 1rem;
+    }
+
+    section h2 {
+      font-size: 1.8rem;
+      margin-bottom: 1rem;
+      border-left: 4px solid #fff;
+      padding-left: 0.5rem;
+    }
+
+    section p {
+      margin-bottom: 1.5rem;
+      font-size: 1.1rem;
+    }
+
+    ul {
+      list-style: none;
+      margin-bottom: 2rem;
+    }
+
+    ul li {
+      margin: 0.5rem 0;
+      font-size: 1.1rem;
+    }
+
+    .emoji {
+      margin-right: 8px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 2rem 1rem;
+      border-top: 2px solid #fff;
+      font-size: 0.9rem;
+      color: #aaa;
+    }
+
+    footer a {
+      color: #fff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>⚫ Vinicius Corsi ⚪</h1>
+    <p>💻 Tech Student | 🚀 Future Project Manager</p>
+  </header>
+
+  <section>
+    <h2>📌 About Me</h2>
+    <p>
+      I'm currently studying <strong>Systems Analysis and Development</strong> with a passion for business, innovation, and digital solutions.  
+      My goal is to combine <em>strategic vision</em> with <em>scalable technology</em>, always focusing on improving user experience.
+    </p>
+  </section>
+
+  <section>
+    <h2>🎯 Goals</h2>
+    <ul>
+      <li>⚫ Practice front-end fundamentals</li>
+      <li>⚪ Build a simple, responsive landing page</li>
+      <li>⚫ Improve HTML, CSS, and JavaScript skills</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>🚀 Tech Stack</h2>
+    <ul>
+      <li>⚪ HTML5</li>
+      <li>⚫ CSS3</li>
+      <li>⚪ JavaScript</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>📚 What I Learned</h2>
+    <p>
+      I learned how to structure and style pages, take my first steps with JavaScript, and use AI tools to simplify development and optimize code.  
+    </p>
+  </section>
+
+  <section>
+    <h2>🔮 Next Steps</h2>
+    <ul>
+      <li>⚫ Publish this landing page online</li>
+      <li>⚪ Make it fully responsive</li>
+      <li>⚫ Add new sections and features with JavaScript</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>👨‍💻 Developed by <a href="https://www.linkedin.com/in/procorsi/" target="_blank">Vinicius Corsi</a></p>
+  </footer>
+</body>
+</html>
 
